@@ -20,9 +20,9 @@ E criamos nosso primeiro projeto com Node.js do total zero, colocando em prátic
 </p>
 Desafios:
 
-- [01 - Conceitos do Node.js](https://github.com/georgaugusto/nodechallenge01)
-- [02 - Trabalhando com Middlewares](https://github.com/georgaugusto/nodechallenge02)
-- [03 - Corrigindo o código](https://github.com/georgaugusto/nodechallenge03)
+- [01 - Conceitos do Node.js](https://github.com/georgaugusto/nodechallenge01) ✔️
+- [02 - Trabalhando com Middlewares](https://github.com/georgaugusto/nodechallenge02) ✔️
+- [03 - Corrigindo o código](https://github.com/georgaugusto/nodechallenge03) ✔️
 
 
 **Capítulo 2 - Iniciando a API**
@@ -31,8 +31,8 @@ Desafios:
 </p>
 Desafios:
 
-- [01 - Introdução ao SOLID](https://github.com/georgaugusto/ignite-node-js)
-- [02 - Documentando com Swagger](https://github.com/georgaugusto/ignite-node-js)
+- [01 - Introdução ao SOLID](https://github.com/georgaugusto/ignite-node-js) ❌
+- [02 - Documentando com Swagger](https://github.com/georgaugusto/ignite-node-js) ❌
 
 ---
 
