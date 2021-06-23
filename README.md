@@ -18,7 +18,7 @@ O Ignite é um programa feito pela [Rocketseat](https://rocketseat.com.br) de ac
   Nesse módulo nós conhecemos os conceitos do Node.js, como é o seu funcionamento e os motivos pelo qual ele foi criado. Iremos estudar sobre os conceitos e regras por trás de uma API Rest, os métodos HTTPs, os principais códigos de retornos e tipos de parâmetros de uma requisição.
 E criamos nosso primeiro projeto com Node.js do total zero, colocando em prática todos os conceitos estudados no módulo inicial.
 </p>
-Desafios da semana:
+Desafios:
 
 - [01 - Conceitos do Node.js](https://github.com/georgaugusto/nodechallenge01)
 - [02 - Trabalhando com Middlewares](https://github.com/georgaugusto/nodechallenge02)
@@ -29,7 +29,7 @@ Desafios da semana:
 <p align="justify">
   Aqui aprenderemos a criar aplicações utilizando TypeScript seguindo padrões de código e princípios do SOLID. Aprenderemos conceitos importantes como casos de uso, repositórios, models, streams do Node.js e documentação de APIs com Swagger.
 </p>
-Desafios da semana:
+Desafios:
 
 - [01 - Introdução ao SOLID](https://github.com/georgaugusto/ignite-node-js)
 - [02 - Documentando com Swagger](https://github.com/georgaugusto/ignite-node-js)
